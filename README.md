@@ -1,5 +1,5 @@
 
-# Question Answering Bot
+# Question Answering Bot, works offline
 
 ## Does the following:
 - Checks if a face is in front of the camera
